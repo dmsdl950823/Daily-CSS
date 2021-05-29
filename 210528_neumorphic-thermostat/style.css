@@ -186,7 +186,7 @@ body {
 }
 
 /* Dark theme */
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
 	:root {
 		--l1: hsl(223,10%,50%);
 		--l2: hsl(223,10%,45%);
@@ -196,7 +196,7 @@ body {
 		--l6: hsl(223,10%,25%);
 		--text: hsl(223,10%,80%);
 	}
-}
+} */
 
 /* Animations */
 @keyframes digitA {
